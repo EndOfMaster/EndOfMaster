@@ -1,4 +1,5 @@
 ### Hi there 👋
+A coder from Java developer to contract developer
 
 <!--
 **EndOfMaster/EndOfMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
